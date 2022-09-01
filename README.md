@@ -5,6 +5,8 @@ Study Group 7 (Alex Milanez, John Edwin Karel Delgado, Ronell Sean Rulloda)
 ## Project Plan
 
 ## Test Plan
+The Johnson and Trotter algorithm can be applied without needing to store every permutation of size n-1 or go through every shorter permutation. Instead, it records the orientation of each permutational component. As well as the permCount integer can be used to provide user input in order to calculate the permutations, as it will ask the user to enter a number.
+
 
 | Reason for Test Case | Input Values |                                        Expected Output |
 |---------------------:|-------------:|-------------------------------------------------------:|
